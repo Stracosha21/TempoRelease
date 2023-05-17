@@ -58,25 +58,20 @@ a {
 }
 .Center{
     padding-bottom: 5%;
-    margin-left: 15%;
+    margin-left: 8%;
     height: 850px;
     background-image: url(img/background.png); 
     background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    
-}
-.BackgroundCol{
-    padding-left: 20%
+    align-items: center;
 }
 .TXT{
     font-family: 'Oswald', sans-serif;
     color: #E30B13;
     font-size: 30px;
-    padding-left: 21%;
 }
-
 .Footer {
     background-color: #242323;
     
